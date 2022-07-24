@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "852203657246",
+    "project_id": "ignite-lab-rn",
+    "storage_bucket": "ignite-lab-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852203657246:android:acf5243a5de9ea1f66b60f",
+        "android_client_info": {
+          "package_name": "com.ehelpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852203657246-h72pk10h5qpiako52dvhbfdvstpg1cv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZxwxuOB_qltwzghlHDnaQ5L4gH6vQkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852203657246-h72pk10h5qpiako52dvhbfdvstpg1cv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852203657246-he1bv21e255u7g1j2cnplcssqf7sjc5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ehelpdesk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
